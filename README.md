@@ -7,6 +7,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankuranurag2&show_icons=true&count_private=true" alt="ankuranurag2" /></p>
 
+<a href="https://github.com/ankuranurag2?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankuranurag2&show_icons=true&count_private=true" alt="Ankur's github stats"/>
+</a>
+<a href="https://github.com/ankuranurag2?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankuranurag2" />
+</a>
+
 <p align="center">
 <a href="https://linkedin.com/in/ankuranurag2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankuranurag2" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/7976274" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7976274" height="30" width="30" /></a>
